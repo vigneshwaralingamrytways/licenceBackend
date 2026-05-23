@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.rytways.Repository.StatusMasterRepo;
+import com.rytways.repository.StatusMasterRepo;
 import com.rytways.model.StatusMaster;
 
 @Service

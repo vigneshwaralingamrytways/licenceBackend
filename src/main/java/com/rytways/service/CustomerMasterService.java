@@ -7,7 +7,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.rytways.Repository.StatusMasterRepo;
+import com.rytways.repository.StatusMasterRepo;
 import com.rytways.model.CustomerMasterEntity;
 import com.rytways.model.StatusMaster;
 import com.rytways.repository.CustomerMasterRepository;

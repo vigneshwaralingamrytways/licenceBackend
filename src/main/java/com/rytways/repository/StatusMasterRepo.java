@@ -1,4 +1,4 @@
-package com.rytways.Repository;
+package com.rytways.repository;
 
 import java.util.Optional;
 
